@@ -4,6 +4,8 @@ This codebase extends the implementation of *[Incorporating Learnable Membrane T
 
 This work is part of the [Research Project 2024](https://github.com/TU-Delft-CSE/Research-Project) at [TU Delft](https://github.com/TU-Delft-CSE).
 
+The associated paper can be found [here](https://github.com/Anananas42/tu-delft-bsc-thesis-computer-science/blob/22d4bff1f498ca98d6f114ece2aae1d86eed9c8f/research-documents/The%20role%20of%20membrane%20time%20constant%20in%20the%20training%20of%20spiking%20neural%20networks%2C%20Improving%20accuracy%20by%20per-neuron%20learning.pdf) and poster [here](https://github.com/Anananas42/tu-delft-bsc-thesis-computer-science/blob/22d4bff1f498ca98d6f114ece2aae1d86eed9c8f/research-documents/poster.pdf).
+
 ## Accuracy
 
 | **Model**      | **Test Accuracy** | **Val Accuracy** |
@@ -13,7 +15,7 @@ This work is part of the [Research Project 2024](https://github.com/TU-Delft-CSE
 | $\lambda=.01$  | 95.8%             | 99.2%            |
 | $\lambda=.1$   | 96.2%             | 100%             |
 
-*Table 1: Comparison of the maximum achieved test and validation set accuracies. Each model has been trained once for 1200-1500 epochs using the seed $2020$. All the best performing instances on the test set were encountered in the first 600 epochs.*
+*Table 1: Comparison of the maximum achieved test and validation set accuracies. Each model has been trained once for 1200-1500 epochs using the seed 2020. All the best performing instances on the test set were encountered in the first 600 epochs.*
 
 ![accuracy_evolution](./figures/combined_accuracy.png)
 
