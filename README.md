@@ -1,10 +1,12 @@
 # The role of membrane time constant in the training of SNNs: Improving accuracy by per-neuron learning
 
-This codebase extends the implementation of *[Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks](https://arxiv.org/abs/2007.05785)* with PLIF neuron layers where each neuron has a learnable membrane time constant.
+This codebase extends the implementation of previous work *[Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks](https://arxiv.org/abs/2007.05785)* with PLIF neuron layers where **each neuron** has a learnable membrane time constant.
 
 This work is part of the [Research Project 2024](https://github.com/TU-Delft-CSE/Research-Project) at [TU Delft](https://github.com/TU-Delft-CSE).
 
-The associated paper can be found [here](https://github.com/Anananas42/tu-delft-bsc-thesis-computer-science/blob/08ddd9d4f32d18ee74b462e4590fbad542dfe692/research-documents/The_role_of_membrane_time_constant_in_the_training_of_spiking_neural_networks__Improving_accuracy_by_per_neuron_learning.pdf) and poster [here](https://github.com/Anananas42/tu-delft-bsc-thesis-computer-science/blob/22d4bff1f498ca98d6f114ece2aae1d86eed9c8f/research-documents/poster.pdf).
+📄 [Paper](https://github.com/Anananas42/tu-delft-bsc-thesis-computer-science/blob/08ddd9d4f32d18ee74b462e4590fbad542dfe692/research-documents/The_role_of_membrane_time_constant_in_the_training_of_spiking_neural_networks__Improving_accuracy_by_per_neuron_learning.pdf)
+
+📊 [Poster](https://github.com/Anananas42/tu-delft-bsc-thesis-computer-science/blob/22d4bff1f498ca98d6f114ece2aae1d86eed9c8f/research-documents/poster.pdf)
 
 ## Accuracy
 
