@@ -4,7 +4,7 @@ This codebase extends the implementation of *[Incorporating Learnable Membrane T
 
 This work is part of the [Research Project 2024](https://github.com/TU-Delft-CSE/Research-Project) at [TU Delft](https://github.com/TU-Delft-CSE).
 
-The associated paper can be found [here](https://github.com/Anananas42/tu-delft-bsc-thesis-computer-science/blob/22d4bff1f498ca98d6f114ece2aae1d86eed9c8f/research-documents/The%20role%20of%20membrane%20time%20constant%20in%20the%20training%20of%20spiking%20neural%20networks%2C%20Improving%20accuracy%20by%20per-neuron%20learning.pdf) and poster [here](https://github.com/Anananas42/tu-delft-bsc-thesis-computer-science/blob/22d4bff1f498ca98d6f114ece2aae1d86eed9c8f/research-documents/poster.pdf).
+The associated paper can be found [here](https://github.com/Anananas42/tu-delft-bsc-thesis-computer-science/blob/08ddd9d4f32d18ee74b462e4590fbad542dfe692/research-documents/The_role_of_membrane_time_constant_in_the_training_of_spiking_neural_networks__Improving_accuracy_by_per_neuron_learning.pdf) and poster [here](https://github.com/Anananas42/tu-delft-bsc-thesis-computer-science/blob/22d4bff1f498ca98d6f114ece2aae1d86eed9c8f/research-documents/poster.pdf).
 
 ## Accuracy
 
