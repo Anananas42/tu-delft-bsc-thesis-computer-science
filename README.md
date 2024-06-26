@@ -1,4 +1,4 @@
-# The effect of a learnable membrane time constant per neuron on spiking neural network accuracy
+# The role of membrane time constant in the training of SNNs: Improving accuracy by per-neuron learning
 
 This codebase extends the implementation of *[Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks](https://arxiv.org/abs/2007.05785)* with PLIF neuron layers where each neuron has a learnable membrane time constant.
 
